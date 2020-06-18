@@ -1,1 +1,1 @@
-This lesson, for The Odin Project, asks me to recreate the Google homepage while using devtools to answer any "how did they do that?" questions.
+This HTML/CSS lesson, for The Odin Project, asks me to recreate the Google homepage while using devtools to answer any "how did they do that?" questions.
